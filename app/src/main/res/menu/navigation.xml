@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@mipmap/ic_map_icon"
+        android:title="Map" />
+
+    <item
+        android:id="@+id/navigation_place"
+        android:icon="@mipmap/ic_place_icon"
+        android:title="Place" />
+
+    <item
+        android:id="@+id/navigation_todo"
+        android:icon="@mipmap/ic_walk_icon"
+        android:title="To Do" />
+
+</menu>
